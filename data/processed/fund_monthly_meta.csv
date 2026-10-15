@@ -1,0 +1,238 @@
+role,month_end,file,n_holdings,pct_sum_raw,aum_lakh,ter_direct,turnover,benchmark
+benchmark_proxy_midcap150_index_fund,2019-09-30,20191010_ed1cd-1792165306fact_sheet_motilal_oct-2019-website.xls,150,97.68595300507448,1831.2702159,0.0038,0.09611427950236703,
+benchmark_proxy_midcap150_index_fund,2019-10-31,20191107_6454f-762159385mf-monthend-portfolios-oct-2019.xls,150,98.8997401776001,2398.2428388999997,0.0038,0.09696377123223449,
+benchmark_proxy_midcap150_index_fund,2019-11-30,20191209_6ab3c-1229073929mf_monthend_portfolio_nov_2019.xls,150,98.11968998786307,2692.8439392,0.0038,0.09042124525194171,
+benchmark_proxy_midcap150_index_fund,2019-12-31,20200109_0f0aa-1339946811motilal_dec-2019_portfolio.xls,150,98.96669333751207,2967.303765,0.0038,0.11377878680344743,
+benchmark_proxy_midcap150_index_fund,2020-01-31,20200210_0825f-1852934196fact_sheet_motilal_jan-2020.xls,150,98.77009230422196,4416.544004599999,0.0038,0.10826828897987034,
+benchmark_proxy_midcap150_index_fund,2020-02-29,20200309_ddcd5-1578587231mf-portfolio-feb-2020.xls,150,109.31001846701383,4078.1936711000003,0.0038,0.09601162755526105,
+benchmark_proxy_midcap150_index_fund,2020-03-31,20200409_b126b-1400112200portfoliomf_mar-2020.xls,150,99.77320035674174,3629.7442896,0.0038,0.2611675088628941,
+benchmark_proxy_midcap150_index_fund,2020-04-30,20200509_d6f10-749644317fact_sheet_motilal_april-2020.xls,150,99.40642390073057,4360.1172675,0.0038,0.2520122867314459,
+benchmark_proxy_midcap150_index_fund,2020-05-31,20200609_37b60-1266839972fact_sheet_motilal_mayend-2020.xlsx,150,99.64992229266626,4463.4729869,0.0038,0.24233786933510337,
+benchmark_proxy_midcap150_index_fund,2020-06-30,20200710_af278-15688165001238209493fact_sheet_motilal_june-2020-5-.xlsx,150,99.7577296128327,5583.9815828,0.0038,0.39362457762775155,
+benchmark_proxy_midcap150_index_fund,2020-07-31,20200808_e4ac5-17290996131184194905fact_sheet_motilal_july-2020.xlsx,151,99.46142406767967,5920.368045900001,0.0038,0.37084435300362767,
+benchmark_proxy_midcap150_index_fund,2020-08-31,20200908_90d6d-856707965656704340fact_sheet_motilal_aug-2020_final.xlsx,151,98.82652293196581,5700.2047268,0.0038,0.6159438439431651,
+benchmark_proxy_midcap150_index_fund,2020-09-30,20201007_d7e9f-5184402991536906516fact_sheet_motilal_sep-2020_final-1-.xlsx,150,0.992838598832294,6490.94,0.0038,0.85,
+benchmark_proxy_midcap150_index_fund,2020-10-31,20201109_e143e-793816474fact_sheet_motilal_oct-2020_final.xlsx,150,0.9747101883732765,6997.88,0.0038,0.77,
+benchmark_proxy_midcap150_index_fund,2020-11-30,20201208_0309b-1404895019in_mf_motilal_factsheet_30-11.xlsx,150,0.9803162377480068,7781.66,0.0038,0.81,
+benchmark_proxy_midcap150_index_fund,2020-12-31,20210108_8075a-1556424945in_mf_motilal_factsheet_31-12-2020_final.xlsx,150,0.993087277034934,10096.9,0.0038,0.73,
+benchmark_proxy_midcap150_index_fund,2021-01-31,20210209_d1c65-1173649781copy-of-in_mf_motilal_factsheet_31-01-2021.xlsx,151,0.9715261318078412,12533.5,0.0038,0.69,
+benchmark_proxy_midcap150_index_fund,2021-02-28,20210309_3e621-569533262copy-of-in_mf_motilal_factsheet-feb-2021.xlsx,150,1.0671540427332968,13690.42,0.0038,0.68,
+benchmark_proxy_midcap150_index_fund,2021-03-31,20210409_4b346-56688933in_mf_motilal_factsheet_31-03-21_final.xlsx,152,1.0655515094809198,15265.9,0.0038,1.17,
+benchmark_proxy_midcap150_index_fund,2021-04-30,20210510_a233d-124734599copy-of-in_mf_motilal_factsheet_30-04-2021_final.xls,150,0.9976463389106988,18318.27,0.002,1.23,
+benchmark_proxy_midcap150_index_fund,2021-05-31,20210610_45b12-1203626445copy-of-in_mf_motilal_factsheet_31-05-21_final.xls,150,0.9927839253905439,23143.2,0.002,1.1,
+benchmark_proxy_midcap150_index_fund,2021-06-30,20210709_0eade-1661361798in_mf_motilal_factsheet_30-06-2021_final.xlsx,150,0.9954689458642589,28208.47,0.002,0.91,
+benchmark_proxy_midcap150_index_fund,2021-07-31,20210810_60062-in_mf_motilal_factsheet_31-07-2021_final.xlsx,150,0.9961544035751476,31607.11,0.002,0.8,
+benchmark_proxy_midcap150_index_fund,2021-08-31,20210908_c2de5-in_mf_motilal_factsheet_31-08-2021_final.xlsx,150,0.9926701820535931,32872.08,0.002,0.77,
+benchmark_proxy_midcap150_index_fund,2021-09-30,20211008_4518c-in_mf_motilal_factsheet_30-09-21_final.xlsx,150,0.9971242271472912,35778.65,0.0021,0.82,
+benchmark_proxy_midcap150_index_fund,2021-10-31,20211109_17904-1015350826in_mf_motilal_factsheet_31-10-21_final.xlsx,150,0.9973841912960787,36746.49,0.0021,0.76,
+benchmark_proxy_midcap150_index_fund,2021-11-30,20211130_ca0ca-1067801426in_mf_motilal_factsheet_30-11-2021_final-3-.xls,151,0.9975461340316808,39335.76,0.0021,0.65,
+benchmark_proxy_midcap150_index_fund,2021-12-31,20220110_c0385-monthend-portfolio-december-2021.xlsx,150,0.9999702826703014,44810.54,0.0021,0.59,
+benchmark_proxy_midcap150_index_fund,2022-01-31,20220209_02dc7-copy-of-in_mf_motilal_factsheet_31-01-22-m_final-1-.xls,150,1.0035732774568529,46441.95,0.0021,0.55,
+benchmark_proxy_midcap150_index_fund,2022-02-28,20220308_39093-copy-of-in_mf_motilal_factsheet_final_28-02-2022-2-.xls,150,1.0006846879518536,46080.8,0.0021,0.51,
+benchmark_proxy_midcap150_index_fund,2022-03-31,20220408_afe77-copy-of-in_mf_motilal_factsheet_final_31-03-22-2-.xlsx,150,0.9997712830625669,51339.4,0.0021,0.48,
+benchmark_proxy_midcap150_index_fund,2022-04-30,20220510_6b283-6447c-in_mf_motilal_factsheet.xls,150,0.9988480665554986,55148.04,0.0021,0.42,
+benchmark_proxy_midcap150_index_fund,2022-05-31,20220607_67ddd-copy-of-in_mf_motilal_factsheet_31-05-2022_final.xls,150,0.9992787684393085,53909.47,0.0021,0.4,
+benchmark_proxy_midcap150_index_fund,2022-06-30,20220708_b8357-in_mf_motilal_factsheet_30062022_final.xls,150,0.9978510772874676,53659.06,0.0022,0.38,
+benchmark_proxy_midcap150_index_fund,2022-07-31,20220810_8ad60-copy-of-motilal-oswal-month-end-portfolio-31st-july-22-4-.xls,150,0.9962039940315581,60719.44,0.0022,0.36,
+benchmark_proxy_midcap150_index_fund,2022-08-31,20220909_d7009-copy-of-in_mf_motilal_factsheet_31-08-2022_final.xlsx,150,0.9962553766925524,62436.87,0.0022,0.37,
+benchmark_proxy_midcap150_index_fund,2022-09-30,20221010_1acb5-motilal-oswal-mf-portfolio-sep-22.xlsx,150,0.9930566138482777,62154.37,0.0022,0.49,
+benchmark_proxy_midcap150_index_fund,2022-10-31,20221110_504f9-in_mf_motilal_factsheet_31-10-2022_final.xls,150,0.9989621123797863,63493.21,0.0022,0.47,
+benchmark_proxy_midcap150_index_fund,2022-11-30,20221208_2640c-copy-of-in_mf_motilal_factsheet_30-11-2022_final.xls,150,0.998170348445208,65968.5,0.0022,0.46,
+benchmark_proxy_midcap150_index_fund,2022-12-31,20230109_8b185-month-end-portfolio-december-2022.xls,151,0.99785531714581,66093.84,0.0022,0.47,NIFTY MIDCAP 150 INDEX - TRI
+benchmark_proxy_midcap150_index_fund,2023-01-31,20230209_4adca-motilal-oswal-month-end-portfolio-january-2023.xls,150,1.0019756749825333,63447.64,0.0022,0.5,NIFTY MIDCAP 150 INDEX - TRI
+benchmark_proxy_midcap150_index_fund,2023-02-28,20230310_4a97f-month-end-portfolio-february-2023.xls,150,0.9985403387678558,64474.48,0.0022,0.48,NIFTY MIDCAP 150 INDEX - TRI
+benchmark_proxy_midcap150_index_fund,2023-03-31,20230410_06d94-21b6d-copy-of-in_mf_motilal_factsheet_31_march_2023.xls,150,0.9988874985504899,66025.25,0.0022,0.49,NIFTY MIDCAP 150 INDEX - TRI
+benchmark_proxy_midcap150_index_fund,2023-04-30,20230510_a853f-month-end-portfolio-april-2023.xls,150,0.9972069283464629,70155.82,0.0022,1.51,NIFTY MIDCAP 150 INDEX - TRI
+benchmark_proxy_midcap150_index_fund,2023-05-31,20230608_8e61a-month-end-portfolio-may-2023.xls,150,1.0005151033931654,75879.64,0.003,0.45,NIFTY MIDCAP 150 INDEX - TRI
+benchmark_proxy_midcap150_index_fund,2023-06-30,20230707_eb953-month-end-portfolio-for-july-2023.xls,150,0.9979368557548762,84689.5,0.003,0.45,NIFTY MIDCAP 150 INDEX - TRI
+benchmark_proxy_midcap150_index_fund,2023-07-31,20230807_d4eb4-month-end-portfolio-july-2023-2-.xls,150,1.001664727833289,92126.8,0.003,0.45,NIFTY MIDCAP 150 INDEX - TRI
+benchmark_proxy_midcap150_index_fund,2023-08-31,20230906_f1cf0-month-end-portfolio-august-2023.xls,150,0.9986177009206079,100306.41,0.003,0.38,NIFTY MIDCAP 150 INDEX - TRI
+benchmark_proxy_midcap150_index_fund,2023-09-30,20231009_94df4-month-end-portfolio-september-2023.xlsx,150,0.9979869090915157,104110.66,0.003,0.38,NIFTY MIDCAP 150 INDEX - TRI
+benchmark_proxy_midcap150_index_fund,2023-10-31,20231109_b7266-month-end-portfolio-october-2023.xls,150,1.0012270259331948,101300.76,0.003,0.37,NIFTY MIDCAP 150 INDEX - TRI
+benchmark_proxy_midcap150_index_fund,2023-11-30,20231208_a4174-1d69f-month-end-portfolio-november-2023-3-.xlsx,150,1.0009453207856844,114324.64,0.003,0.35,NIFTY MIDCAP 150 INDEX - TRI
+benchmark_proxy_midcap150_index_fund,2023-12-31,20240109_98e4f-month-end-portfolio-december-2023.xls,150,1.000587469714919,124807.42,0.003,0.35,NIFTY MIDCAP 150 INDEX - TRI
+benchmark_proxy_midcap150_index_fund,2024-01-31,20240207_e73a3-month-end-portfolio-january-2024.xlsx,150,1.0016391765002595,132759.93,0.003,0.3,NIFTY MIDCAP 150 INDEX - TRI
+benchmark_proxy_midcap150_index_fund,2024-02-29,20240306_c09fa-month-end-portfolio-february-2024.xls,150,1.002744417148551,137900.49,0.003,0.28,NIFTY MIDCAP 150 INDEX - TRI
+benchmark_proxy_midcap150_index_fund,2024-03-31,20240409_8199d-month-end-portfolio-march-2024.xls,150,0.9986341997134486,140415.36,0.003,0.38,NIFTY MIDCAP 150 INDEX - TRI
+benchmark_proxy_midcap150_index_fund,2024-04-30,20240507_685c5-month-end-portfolio-april-2024.xls,150,1.0009663544543486,152785.98,0.003,0.36,NIFTY MIDCAP 150 INDEX - TRI
+benchmark_proxy_midcap150_index_fund,2024-05-31,20240610_936db-month-end-portfolio-may-2024.xls,150,1.0011328706498612,159073.89,0.003,0.36,NIFTY MIDCAP 150 INDEX - TRI
+benchmark_proxy_midcap150_index_fund,2024-06-30,20240709_b9860-month-end-portfolio-june-2024.xls,150,0.998706861729999,175907.06,0.003,0.34,NIFTY MIDCAP 150 INDEX - TRI
+benchmark_proxy_midcap150_index_fund,2024-07-31,20240807_3d79f-month-end-portfolio-july-2024.xls,150,0.9986157177421159,187823.46,0.003,0.33,NIFTY MIDCAP 150 INDEX - TRI
+benchmark_proxy_midcap150_index_fund,2024-08-31,20240906_557e2-month-end-portfolio-august-2024.xls,150,0.9982800499372347,186601.28,0.003,0.35,NIFTY MIDCAP 150 INDEX - TRI
+benchmark_proxy_midcap150_index_fund,2024-09-30,20241008_6afc0-month-end-portfolio-sept-24.xls,150,1.0009588889506265,194914.78,0.003,0.39,NIFTY MIDCAP 150 INDEX - TRI
+benchmark_proxy_midcap150_index_fund,2024-10-31,20241107_6f698-month-end-portfolio-october-2024.xls,150,1.0003560461424925,189400.1,0.003,0.37,NIFTY MIDCAP 150 INDEX - TRI
+benchmark_proxy_midcap150_index_fund,2024-11-30,20241204_c9f2c-month-end-portfolio-november-2024.xls,151,0.9991535606907693,198647.01,0.003,0.35,NIFTY MIDCAP 150 INDEX - TRI
+benchmark_proxy_midcap150_index_fund,2024-12-31,20250109_b4801-month-end-portfolio-december-2024.xls,150,1.0002184402464245,205962.46,0.003,0.34,NIFTY MIDCAP 150 INDEX - TRI
+benchmark_proxy_midcap150_index_fund,2025-01-31,20250206_b1185-month-end-portfolio-january-2025.xlsx,150,1.0006562742803515,198167.7,0.003,0.34,NIFTY MIDCAP 150 INDEX - TRI
+benchmark_proxy_midcap150_index_fund,2025-02-28,20250306_5a466-month-end-portfolio-february-2025.xlsx,150,0.9967359824170977,180068.28,0.003,0.33,NIFTY MIDCAP 150 INDEX - TRI
+benchmark_proxy_midcap150_index_fund,2025-03-31,20250404_3a234-month-end-portfolio-march-2025.xls,150,0.9989195153040344,198687.61,0.003,0.33,NIFTY MIDCAP 150 INDEX - TRI
+benchmark_proxy_midcap150_index_fund,2025-04-30,20250506_32d91-month-end-portfolio-april-2025.xlsx,150,0.9997484518402893,212612.99,0.003,0.32,NIFTY MIDCAP 150 INDEX - TRI
+benchmark_proxy_midcap150_index_fund,2025-05-31,20250606_27945-month-end-portfolio-may-2025.xlsx,152,0.9999581707732674,231194.79,0.0026,0.3,NIFTY MIDCAP 150 INDEX - TRI
+benchmark_proxy_midcap150_index_fund,2025-06-30,20250708_bc9a7-month-end-portfolio-june-2025.xlsx,150,1.0000025181691132,245970.85,0.0026,0.3,NIFTY MIDCAP 150 INDEX - TRI
+benchmark_proxy_midcap150_index_fund,2025-07-31,20250807_09555-scheme-portfolio-details-july-2025.xlsx,150,1.0001889746590225,247246.68,0.0026,0.28,NIFTY MIDCAP 150 INDEX - TRI
+benchmark_proxy_midcap150_index_fund,2025-08-31,20250909_deebc-scheme-portfolio-details-aug-2025.xlsx,150,0.9991333005606057,250238.91,0.0026,0.24,NIFTY MIDCAP 150 INDEX - TRI
+benchmark_proxy_midcap150_index_fund,2025-09-30,20251006_6abd7-scheme-portfolio-details-october-2025.xlsx,150,1.0004298008349564,263075.39,0.0026,0.26,NIFTY MIDCAP 150 INDEX - TRI
+benchmark_proxy_midcap150_index_fund,2025-10-31,20251110_9ec4e-scheme-portfolio-details-october-2025.xlsx,150,1.0009589028601582,281663.93,0.0026,0.24,NIFTY MIDCAP 150 INDEX - TRI
+benchmark_proxy_midcap150_index_fund,2025-11-30,20251208_966d5-scheme-portfolio-details-november-2025.xlsx,150,0.9997287203210281,292931.87,0.0026,0.24,NIFTY MIDCAP 150 INDEX - TRI
+benchmark_proxy_midcap150_index_fund,2025-12-31,20260106_db566-scheme-portfolio-details-december-2025.xlsx,150,1.0008706188294503,302322.58,0.0026,0.23,NIFTY MIDCAP 150 INDEX - TRI
+benchmark_proxy_midcap150_index_fund,2026-01-31,20260206_b5209-scheme-portfolio-details-january-2026-2-.xlsx,150,1.0001044090351452,300472.23,0.0027,0.22,NIFTY MIDCAP 150 INDEX - TRI
+benchmark_proxy_midcap150_index_fund,2026-02-28,20260309_8c1a9-scheme-portfolio-details-february-26.xlsx,150,0.9994469607876907,313477.36,0.0023,0.2,NIFTY MIDCAP 150 INDEX - TRI
+benchmark_proxy_midcap150_index_fund,2026-03-31,20260401_b3b74-copy-of-portfolioholding_march-31-2026-3-.xlsx,151,0.999484286122917,290078.85,0.0023,0.24,43
+benchmark_proxy_midcap150_index_fund,2026-04-30,20260510_Motilal Portfolio 30 April 2026 - Final.xlsx,150,100.10999999999999,340809.79,,0.24,NIFTY MIDCAP 150 INDEX - TRI
+benchmark_proxy_midcap150_index_fund,2026-05-31,20260610_Scheme Portfolio Details 31-05-2026.xlsx,150,100.10000000000001,358856.35,0.0021,0.22309264068121254,NIFTY MIDCAP 150 INDEX - TRI
+benchmark_proxy_midcap150_index_fund,2026-06-30,20260710_Scheme Portfolio Details June 20261.xlsx,150,99.98000000000002,373033.95,0.0022,0.21542602745418504,NIFTY MIDCAP 150 INDEX - TRI
+benchmark_proxy_midcap150_index_fund,2026-07-31,20260810_Monthly Portfolio 31-07-2026-Final.xlsx,150,99.89999999999999,391082.56,0.0022,0.21342080066763247,NIFTY MIDCAP 150 INDEX - TRI
+benchmark_proxy_midcap150_index_fund,2026-08-31,20260910_Copy of Scheme Portfolio Details Aug 2026.xlsx,150,100.0,415061.89,0.0022,0.21348550575180847,NIFTY MIDCAP 150 INDEX - TRI
+benchmark_proxy_midcap150_index_fund,2026-09-30,20261008_Scheme Portfolio Details September 2026.xlsx,150,100.06,399468.55,0.0023,0.2494377465651375,NIFTY MIDCAP 150 INDEX - TRI
+target_midcap_fund,2014-02-28,20140228_d3c28-1768091153month_end_portfolio_report_feb_2014.xls,6,0.2723,3649.615,,,
+target_midcap_fund,2014-03-31,20140331_142d4-326247985month_end_portfolio_report_march_2014.xls,16,0.8764000000000001,4380.612464000001,,,
+target_midcap_fund,2014-04-30,20140430_4beca-1969424025month_end_portfolio_report_apr_2014.xls,17,0.9494,4626.492906,,,
+target_midcap_fund,2014-05-31,20140531_af2d5-683314120month_end_portfolio_report_may_2014.xls,19,0.9613,6614.747961,,,
+target_midcap_fund,2014-06-30,20140630_d3822-437978587monthly_portfolio_disclosure_-_jun14.xls,21,0.9686999999999999,8381.251361,,,
+target_midcap_fund,2014-07-31,20140731_ebf28-794837833monthly_portfolio_disclosure_-_july14.xls,22,0.9819,9631.555964,,,
+target_midcap_fund,2014-08-31,20140831_c379d-1247271655month_end_portfolio_report_aug-_2014_.xls,21,0.9813000000000001,10557.609047,,,
+target_midcap_fund,2014-09-30,20140930_89a80-11065544month_end_portfolio_report_sept-_2014.xls,22,0.9866,19915.052147999995,,,
+target_midcap_fund,2014-10-31,20141031_21cd6-868997264month_end_portfolio_report_oct-_2014.xls,22,0.9925,20669.290983,,,
+target_midcap_fund,2014-11-30,20141130_0a0ab-820423859month_end_portfolio_report_nov_2014.xls,20,0.9833,24052.080075,,,
+target_midcap_fund,2014-12-31,20141231_db2e3-124378126month_end_portfolio_report_dec_2014.xls,20,98.67145055044733,26547.7897506,,,
+target_midcap_fund,2015-01-31,20150129_5ba00-1129571863monthly_portfolio_disclosure_jan_15.xls,21,98.4904598924559,29866.000475700002,,,
+target_midcap_fund,2015-02-28,20150228_21a66-233616455month_end_portfolio_report_feb_2015.xls,20,96.06330137232864,38442.4725165,,,
+target_midcap_fund,2015-03-31,20150408_7a5e4-1124350088month_end_portfolio_report_mar_2015.xlsx,20,96.13900911671703,40551.911548899996,,,
+target_midcap_fund,2015-04-30,20150507_779c3-1228183407month_end_portfolio_report_apr_2015.xlsx,21,98.41177850269946,44484.9341355,,,
+target_midcap_fund,2015-05-31,20150603_c8964-37274990month_end_portfolio_report_may_2015.xls,21,97.40055126677508,54530.47094109999,,,
+target_midcap_fund,2015-06-30,20150703_0ef48-941593595month_end_portfolio_report_june_2015.xls,21,99.12500213907353,59651.566696099995,,,
+target_midcap_fund,2015-07-31,20150810_ef9ee-1248117972month_end_portfolio_report_aug_2015-1-.xls,22,96.54727560309948,70339.6002438,,,
+target_midcap_fund,2015-08-31,20150903_4d915-377686321month_end_portfolio_report_sep_2015.xls,22,97.75018554771388,73228.2746262,,,
+target_midcap_fund,2015-09-30,20151006_cb5ae-223931281month_end_portfolio_report_oct_2015.xls,22,98.42790325564492,75925.0256758,,,
+target_midcap_fund,2015-10-31,20151104_4138d-1921384268month_end_portfolio_report_nov_2015.xls,20,95.12387212294068,81619.8665364,,,
+target_midcap_fund,2015-11-30,20151203_829e0-619375447monthly-portfolio-disclosure-november-15.xls,20,97.11350919472304,83213.2013935,0.01430686,,
+target_midcap_fund,2015-12-31,20160105_84757-757127488month_end_portfolio_report_december_2015.xls,21,98.19400889505542,89014.3748825,0.014318188232406147,,
+target_midcap_fund,2016-01-31,20160204_e6309-2024581566monthly-portfolio-disclosure-january-2016.xls,20,96.80932446671004,89019.2097556,0.01588158,,
+target_midcap_fund,2016-02-29,20160304_ebd4e-1569323018monthly-portfolio-disclosure-february-16.xls,20,99.06372700621077,84230.7480544,0.01710511,,
+target_midcap_fund,2016-03-31,20160406_6188d-380446928monthly-portfolio-disclosure-march-16.xls,20,97.2899,91798.29967,0.01793715,,
+target_midcap_fund,2016-04-30,20160505_e10ab-2064268379monthly-portfolio-disclosure-april-16.xls,23,98.41996679017805,98197.45364559999,0.01576275,,
+target_midcap_fund,2016-05-31,20160609_2f684-1874585798monthly-portfolio-disclosure-may-16.xls,22,97.26589041898195,108339.0847011,0.01600048,,
+target_midcap_fund,2016-06-30,20160708_179b1-952664354monthly-portfolio-disclosure-june-16.xls,23,99.30833926879849,116163.68536700001,0.01440284,0.4674,
+target_midcap_fund,2016-07-31,20160808_6adb3-232175338monthly-portfolio-disclosure-july-16.xls,22,98.84768476439426,123689.47248629999,0.01438851,0.4823,
+target_midcap_fund,2016-08-31,20160907_82597-734035093most_portfolios_aug_2016.xls,23,97.15313535104674,127249.4478349,0.01439111,0.5144,
+target_midcap_fund,2016-09-30,20161006_e03ab-1149959520month_end_portfolio-website.xls,21,97.33431302765173,128744.0627463,0.01437971,0.5361,
+target_midcap_fund,2016-10-31,20161110_66ddd-1721363647factsheet_motilal_new_novv-2-.xlsx,22,99.13194703361921,134489.1265757,0.01438743,0.5653,
+target_midcap_fund,2016-11-30,20161209_60579-71516606factsheet.xls,22,96.38539572902948,125535.4548392,0.01423689,0.6582,
+target_midcap_fund,2016-12-31,20171110_71ae2-1120394022factsheet_motilal.xls,23,98.74064511925731,116250.3922593,0.01425617,0.701,
+target_midcap_fund,2017-01-31,20170210_74c48-890929613factsheet_motilal_newwebsite.xls,22,99.66282295427008,122235.0184034,0.014262,0.6734,
+target_midcap_fund,2017-02-28,20170310_628db-80623996factsheet_motilal_march-2017website.xls,21,99.60720297125985,125620.06018290001,0.01421184,0.6473,
+target_midcap_fund,2017-03-31,20170410_a29fb-931069213factsheet_motilal_april.xls,21,99.39014454069793,130491.25925849998,0.01166438,0.6166,
+target_midcap_fund,2017-04-30,20170510_b46be-1423282482monthend-portfolio-apr-2017.xls,22,99.03891518439036,138445.4136606,0.01223376,0.6184,
+target_midcap_fund,2017-05-31,20170609_9e012-354881155website-portfolio.xls,22,99.31549860554149,133524.7711691,0.01285,0.5814,
+target_midcap_fund,2017-06-30,20170710_d619a-304505160motilal-oswal-website.xls,22,97.73344912823683,133715.3581222,0.01285586,0.5509,
+target_midcap_fund,2017-07-31,20170810_b4079-2134167901motilalwebsite-holdings.xls,22,98.55641523141324,136594.7867634,0.01287803,0.4981,
+target_midcap_fund,2017-08-31,20170908_829e0-226364721holding_motilal.xls,22,98.44040474447183,134261.60433469998,0.01290677,0.5809,
+target_midcap_fund,2017-09-30,20171010_04f9f-940229248mf_motilal_october.xls,22,99.69189814709387,132921.0004864,0.0129,0.6169,
+target_midcap_fund,2017-10-31,20171110_b16bc-1640325882copy-of-factsheet_motilal_november-2017.xls,22,97.44177398560139,135122.36426899998,0.01281338,0.6587,
+target_midcap_fund,2017-11-30,20171208_56950-606840868factsheet_motilal_dec_2017.xls,22,99.25513669904038,145427.0485342,0.01274981,0.7256,
+target_midcap_fund,2017-12-31,20180110_0eba7-1311514086month-end-portfolio_motilal_jan2018.xls,21,99.83006849032843,152013.712171,0.01279191,0.6995,
+target_midcap_fund,2018-01-31,20180209_e4caf-381141878motilal_mf_jan-2018.xls,21,98.68129220202712,136162.8498641,0.01275961,0.682,
+target_midcap_fund,2018-02-28,20180309_79638-1792381603factsheet_motilal_march_2018.xls,21,95.24656325412347,131295.0638086,0.01278146,0.6724,
+target_midcap_fund,2018-03-31,20180410_329c3-1896086399mf_holdings_april_2018.xls,23,99.35686051766935,127867.40044629999,0.01275573,0.7845,
+target_midcap_fund,2018-04-30,20180510_83b6f-1501677308month_end_portfolio_april_2018.xls,29,98.51495448782198,133335.8446029,0.01277527,0.9127,
+target_midcap_fund,2018-05-31,20180608_41419-1735448558factsheet_motilal_website.xls,29,96.60997842071401,130989.7977887,0.01275097,1.0125,
+target_midcap_fund,2018-06-30,20180710_7a809-2054894667month_end_portfolio_july_2018.xls,29,98.33519836441101,127243.2370389,0.0112609851723471,1.1745,
+target_midcap_fund,2018-07-31,20180810_c669e-857461676factsheet_motilal_aug2018-website.xls,29,97.46173711617702,133838.5291394,0.011300000000000001,1.2404,
+target_midcap_fund,2018-08-31,20180907_53922-2141516483month_end_portfolio_sept_2018.xls,29,97.36588655383416,143780.8238978,0.011057474325408299,1.2101,
+target_midcap_fund,2018-09-30,20181008_7b406-1846465868month-end-portfolios_sept_2018.xls,27,99.37971875835679,127022.871337,0.010766558652595183,1.29,
+target_midcap_fund,2018-10-31,20181109_cf0c7-1709097210motilal_oswal_monthendportfolio_oct2018.xls,26,95.80658190849083,124592.47995040001,0.008777829434201221,1.1999,
+target_midcap_fund,2018-11-30,20181210_6a562-1076945727factsheet_motilal_nov2018_portfolio.xls,26,94.02123528477908,126512.2074957,0.00871769350558603,1.0368,
+target_midcap_fund,2018-12-31,20190109_4312e-1039766580factsheet_motilal_dec2018.xls,25,93.00979101865418,132218.7564773,0.008637000164867679,0.9988,
+target_midcap_fund,2019-01-31,20190208_e4a36-662303898factsheet_motilal_jan_2019.xls,26,98.59318307131893,126025.3459462,0.00864721183174824,1.0361,
+target_midcap_fund,2019-02-28,20190308_cce06-1619820310fact_sheet_motilal_feb-2019.xls,27,98.16747052244651,128194.1664991,0.009377985298796855,1.0179,
+target_midcap_fund,2019-03-31,20190409_7ab9d-1641897489fact_sheet_motilal_mar-2019.xlsx,27,96.60009209984992,138984.53243370002,0.0109,0.9603747183068067,
+target_midcap_fund,2019-04-30,20190510_Copy of Portfolio_April_2019.xlsx,27,95.96424792839584,139074.59,0.0089,0.77,
+target_midcap_fund,2019-05-31,20190608_ef5c7-617446315mf-month-end-portfolio_may-2019.xls,26,95.73156923569469,143721.9020653,0.0092,0.6389147058119352,
+target_midcap_fund,2019-06-30,20190710_af41d-409656517monthendportfolio_june2019.xlsx,25,93.95305703929652,144914.8545992,0.0111,0.5302257387568717,
+target_midcap_fund,2019-07-31,20190809_30461-909223574monthendportfolio_july-2019.xls,22,95.69328072871532,135021.66925,0.0112,0.5137563237529711,
+target_midcap_fund,2019-08-31,20190909_033ef-936535077fact_sheet_motilal_aug-2019.xls,22,99.19635917043541,141386.5742381,0.011,0.4774626983308261,
+target_midcap_fund,2019-09-30,20191010_ed1cd-1792165306fact_sheet_motilal_oct-2019-website.xls,21,97.17125832690185,156995.49531280002,0.011000000000000001,0.4272159366853142,
+target_midcap_fund,2019-10-31,20191107_6454f-762159385mf-monthend-portfolios-oct-2019.xls,22,95.53557541399539,162545.3338477,0.0115,0.5556695437314072,
+target_midcap_fund,2019-11-30,20191209_6ab3c-1229073929mf_monthend_portfolio_nov_2019.xls,24,99.03558344602942,176791.2869372,0.011200000000000002,0.6292645762377381,
+target_midcap_fund,2019-12-31,20200109_0f0aa-1339946811motilal_dec-2019_portfolio.xls,24,97.43563940779006,181199.3332964,0.011200000000000002,0.6138140301393287,
+target_midcap_fund,2020-01-31,20200210_0825f-1852934196fact_sheet_motilal_jan-2020.xls,25,93.57661966180078,198604.92174400002,0.011000000000000001,0.7816612959534126,
+target_midcap_fund,2020-02-29,20200309_ddcd5-1578587231mf-portfolio-feb-2020.xls,25,96.38589329619856,188775.74251540002,0.0106,0.8516085930238589,
+target_midcap_fund,2020-03-31,20200409_b126b-1400112200portfoliomf_mar-2020.xls,20,95.89367058855224,133106.8530343,0.011200000000000002,0.9574955659075979,
+target_midcap_fund,2020-04-30,20200509_d6f10-749644317fact_sheet_motilal_april-2020.xls,21,94.5669042305961,141526.1689588,0.0109,1.1429289355902645,
+target_midcap_fund,2020-05-31,20200609_37b60-1266839972fact_sheet_motilal_mayend-2020.xlsx,27,91.11527313753032,136427.6946757,0.0106,1.4098130833713831,
+target_midcap_fund,2020-06-30,20200710_af278-15688165001238209493fact_sheet_motilal_june-2020-5-.xlsx,30,91.00686975253791,146731.3127131,0.0104,1.4589372955537072,
+target_midcap_fund,2020-07-31,20200808_e4ac5-17290996131184194905fact_sheet_motilal_july-2020.xlsx,28,94.52656771647793,151882.7185243,0.0103,1.4976904638301016,
+target_midcap_fund,2020-08-31,20200908_90d6d-856707965656704340fact_sheet_motilal_aug-2020_final.xlsx,29,98.31652413090217,161968.210537,0.01,1.4829270475802871,
+target_midcap_fund,2020-09-30,20201007_d7e9f-5184402991536906516fact_sheet_motilal_sep-2020_final-1-.xlsx,29,0.971318414173304,165504.93,0.0098,1.47,
+target_midcap_fund,2020-10-31,20201109_e143e-793816474fact_sheet_motilal_oct-2020_final.xlsx,29,0.978835455014014,162552.26,0.0075,1.35,
+target_midcap_fund,2020-11-30,20201208_0309b-1404895019in_mf_motilal_factsheet_30-11.xlsx,29,0.9521761810029649,178632.77,0.0074,1.24,
+target_midcap_fund,2020-12-31,20210108_8075a-1556424945in_mf_motilal_factsheet_31-12-2020_final.xlsx,29,0.9886290302949985,178391.56,0.0074,1.31,
+target_midcap_fund,2021-01-31,20210209_d1c65-1173649781copy-of-in_mf_motilal_factsheet_31-01-2021.xlsx,30,0.9723055467182841,173650.11,0.0072,1.23,
+target_midcap_fund,2021-02-28,20210309_3e621-569533262copy-of-in_mf_motilal_factsheet-feb-2021.xlsx,26,0.9442637137870981,190213.92,0.0071,1.21,
+target_midcap_fund,2021-03-31,20210409_4b346-56688933in_mf_motilal_factsheet_31-03-21_final.xlsx,29,0.9866286175669459,189575.2,0.0069,1.14,
+target_midcap_fund,2021-04-30,20210510_a233d-124734599copy-of-in_mf_motilal_factsheet_30-04-2021_final.xls,27,0.9696513829894737,189265.93,0.0072,1.0,
+target_midcap_fund,2021-05-31,20210610_45b12-1203626445copy-of-in_mf_motilal_factsheet_31-05-21_final.xls,26,0.9827475173242023,197864.41,0.0089,0.82,
+target_midcap_fund,2021-06-30,20210709_0eade-1661361798in_mf_motilal_factsheet_30-06-2021_final.xlsx,26,0.9509493710152118,204023.2,0.0087,0.76,
+target_midcap_fund,2021-07-31,20210810_60062-in_mf_motilal_factsheet_31-07-2021_final.xlsx,28,0.9515239334390488,215092.75,0.0087,0.65,
+target_midcap_fund,2021-08-31,20210908_c2de5-in_mf_motilal_factsheet_31-08-2021_final.xlsx,27,0.9394117043521271,223510.79,0.0086,0.62,
+target_midcap_fund,2021-09-30,20211008_4518c-in_mf_motilal_factsheet_30-09-21_final.xlsx,25,0.9473385834934732,236663.67,0.0085,0.61,
+target_midcap_fund,2021-10-31,20211109_17904-1015350826in_mf_motilal_factsheet_31-10-21_final.xlsx,26,0.9268327947462929,241924.97,0.0082,0.71,
+target_midcap_fund,2021-11-30,20211130_ca0ca-1067801426in_mf_motilal_factsheet_30-11-2021_final-3-.xls,28,0.9312771209813677,250599.42,0.0091,0.73,
+target_midcap_fund,2021-12-31,20220110_c0385-monthend-portfolio-december-2021.xlsx,24,0.8925247071327795,263389.85,0.0095,0.66,
+target_midcap_fund,2022-01-31,20220209_02dc7-copy-of-in_mf_motilal_factsheet_31-01-22-m_final-1-.xls,23,0.8949146705592453,264397.19,0.0095,0.6,
+target_midcap_fund,2022-02-28,20220308_39093-copy-of-in_mf_motilal_factsheet_final_28-02-2022-2-.xls,23,0.8806610687682153,254146.91,0.0097,0.56,
+target_midcap_fund,2022-03-31,20220408_afe77-copy-of-in_mf_motilal_factsheet_final_31-03-22-2-.xlsx,24,0.9130653243423386,264139.3,0.0093,0.59,
+target_midcap_fund,2022-04-30,20220510_6b283-6447c-in_mf_motilal_factsheet.xls,26,0.8951060929294516,275082.55,0.0094,0.66,
+target_midcap_fund,2022-05-31,20220607_67ddd-copy-of-in_mf_motilal_factsheet_31-05-2022_final.xls,27,0.9667959522120768,262408.13,0.0093,0.74,
+target_midcap_fund,2022-06-30,20220708_b8357-in_mf_motilal_factsheet_30062022_final.xls,27,0.9631559998988737,257514.44,0.0096,0.7,
+target_midcap_fund,2022-07-31,20220810_8ad60-copy-of-motilal-oswal-month-end-portfolio-31st-july-22-4-.xls,25,0.9146899365010931,291932.39,0.0085,0.74,
+target_midcap_fund,2022-08-31,20220909_d7009-copy-of-in_mf_motilal_factsheet_31-08-2022_final.xlsx,24,0.8943302048175523,315804.43,0.0084,0.74,
+target_midcap_fund,2022-09-30,20221010_1acb5-motilal-oswal-mf-portfolio-sep-22.xlsx,25,0.9401559120610631,340900.51,0.0083,0.73,
+target_midcap_fund,2022-10-31,20221110_504f9-in_mf_motilal_factsheet_31-10-2022_final.xls,26,0.8860263340608444,358022.76,0.0081,0.69,
+target_midcap_fund,2022-11-30,20221208_2640c-copy-of-in_mf_motilal_factsheet_30-11-2022_final.xls,29,0.8561568577174391,365717.23,0.0087,0.76,
+target_midcap_fund,2022-12-31,20230109_8b185-month-end-portfolio-december-2022.xls,32,0.8407919700759116,362683.78,0.0087,0.81,NIFTY MIDCAP 150 INDEX - TRI
+target_midcap_fund,2023-01-31,20230209_4adca-motilal-oswal-month-end-portfolio-january-2023.xls,33,0.8622690419234523,366262.65,0.0087,0.95,NIFTY MIDCAP 150 INDEX - TRI
+target_midcap_fund,2023-02-28,20230310_4a97f-month-end-portfolio-february-2023.xls,32,0.8667401299908701,376930.47,0.0087,1.2,NIFTY MIDCAP 150 INDEX - TRI
+target_midcap_fund,2023-03-31,20230410_06d94-21b6d-copy-of-in_mf_motilal_factsheet_31_march_2023.xls,34,0.9465840444044458,380072.02,0.0086,1.24,NIFTY MIDCAP 150 INDEX - TRI
+target_midcap_fund,2023-04-30,20230510_a853f-month-end-portfolio-april-2023.xls,28,0.9064176786751742,403333.1,0.0076,2.14,NIFTY MIDCAP 150 INDEX - TRI
+target_midcap_fund,2023-05-31,20230608_8e61a-month-end-portfolio-may-2023.xls,25,0.8871842980175366,450773.72,0.0075,1.42,NIFTY MIDCAP 150 INDEX - TRI
+target_midcap_fund,2023-06-30,20230707_eb953-month-end-portfolio-for-july-2023.xls,28,0.8633652579134634,495971.99,0.0073,1.39,NIFTY MIDCAP 150 INDEX - TRI
+target_midcap_fund,2023-07-31,20230807_d4eb4-month-end-portfolio-july-2023-2-.xls,34,0.9731075059440663,523688.02,0.0072,1.36,NIFTY MIDCAP 150 INDEX - TRI
+target_midcap_fund,2023-08-31,20230906_f1cf0-month-end-portfolio-august-2023.xls,31,0.9509405318603147,573492.67,0.007,1.49,NIFTY MIDCAP 150 INDEX - TRI
+target_midcap_fund,2023-09-30,20231009_94df4-month-end-portfolio-september-2023.xlsx,34,0.9847992589808553,595304.95,0.0067,1.45,NIFTY MIDCAP 150 INDEX - TRI
+target_midcap_fund,2023-10-31,20231109_b7266-month-end-portfolio-october-2023.xls,31,0.9740119367286936,605992.24,0.0069,1.45,NIFTY MIDCAP 150 INDEX - TRI
+target_midcap_fund,2023-11-30,20231208_a4174-1d69f-month-end-portfolio-november-2023-3-.xlsx,30,0.968121535776997,680461.77,0.0066,1.42,NIFTY MIDCAP 150 INDEX - TRI
+target_midcap_fund,2023-12-31,20240109_98e4f-month-end-portfolio-december-2023.xls,30,0.9724928297829928,741068.6,0.0065,1.35,NIFTY MIDCAP 150 INDEX - TRI
+target_midcap_fund,2024-01-31,20240207_e73a3-month-end-portfolio-january-2024.xlsx,25,0.9294093421020316,797205.14,0.0064,1.44,NIFTY MIDCAP 150 INDEX - TRI
+target_midcap_fund,2024-02-29,20240306_c09fa-month-end-portfolio-february-2024.xls,20,0.8531753967792427,848146.06,0.0063,1.46,NIFTY MIDCAP 150 INDEX - TRI
+target_midcap_fund,2024-03-31,20240409_8199d-month-end-portfolio-march-2024.xls,22,0.9346411118560631,898668.75,0.0061,1.36,NIFTY MIDCAP 150 INDEX - TRI
+target_midcap_fund,2024-04-30,20240507_685c5-month-end-portfolio-april-2024.xls,22,0.9309039428294897,981908.63,0.006,1.31,NIFTY MIDCAP 150 INDEX - TRI
+target_midcap_fund,2024-05-31,20240610_936db-month-end-portfolio-may-2024.xls,24,0.9691097400157406,1037815.85,0.0065,1.31,NIFTY MIDCAP 150 INDEX - TRI
+target_midcap_fund,2024-06-30,20240709_b9860-month-end-portfolio-june-2024.xls,24,0.9484537686303922,1262768.13,0.0061,1.49,NIFTY MIDCAP 150 INDEX - TRI
+target_midcap_fund,2024-07-31,20240807_3d79f-month-end-portfolio-july-2024.xls,20,0.8331206524116066,1444555.45,0.0058,1.67,NIFTY MIDCAP 150 INDEX - TRI
+target_midcap_fund,2024-08-31,20240906_557e2-month-end-portfolio-august-2024.xls,20,0.7828022564517181,1594006.2,0.006,1.55,NIFTY MIDCAP 150 INDEX - TRI
+target_midcap_fund,2024-09-30,20241008_6afc0-month-end-portfolio-sept-24.xls,23,0.8097721020130565,1860402.08,0.0058,1.44,NIFTY MIDCAP 150 INDEX - TRI
+target_midcap_fund,2024-10-31,20241107_6f698-month-end-portfolio-october-2024.xls,26,0.9759765023230191,2005568.09,0.0057,1.33,NIFTY MIDCAP 150 INDEX - TRI
+target_midcap_fund,2024-11-30,20241204_c9f2c-month-end-portfolio-november-2024.xls,27,0.9939094363862587,2289761.56,0.0054,1.33,NIFTY MIDCAP 150 INDEX - TRI
+target_midcap_fund,2024-12-31,20250109_b4801-month-end-portfolio-december-2024.xls,26,0.9080295745467755,2642109.2,0.0065,1.46,NIFTY MIDCAP 150 INDEX - TRI
+target_midcap_fund,2025-01-31,20250206_b1185-month-end-portfolio-january-2025.xlsx,25,0.7840735216018614,2448800.23,0.0065,1.64,NIFTY MIDCAP 150 INDEX - TRI
+target_midcap_fund,2025-02-28,20250306_5a466-month-end-portfolio-february-2025.xlsx,24,0.7691526409651674,2370368.34,0.0068,1.71,NIFTY MIDCAP 150 INDEX - TRI
+target_midcap_fund,2025-03-31,20250404_3a234-month-end-portfolio-march-2025.xls,24,0.7455695201614387,2602834.46,0.0064,1.84,NIFTY MIDCAP 150 INDEX - TRI
+target_midcap_fund,2025-04-30,20250502_e0262-copy-of-portfolioholding_april-30-2025-002-.xlsx,25,0.7545646249753423,2778018.38,0.007,,NIFTY MIDCAP 150 INDEX - TRI
+target_midcap_fund,2025-05-31,20250606_27945-month-end-portfolio-may-2025.xlsx,26,0.7480822851892057,3040109.41,0.007,1.72,NIFTY MIDCAP 150 INDEX - TRI
+target_midcap_fund,2025-06-30,20250708_bc9a7-month-end-portfolio-june-2025.xlsx,22,0.8337372288229596,3305312.57,0.0068,1.61,NIFTY MIDCAP 150 INDEX - TRI
+target_midcap_fund,2025-07-31,20250807_09555-scheme-portfolio-details-july-2025.xlsx,18,0.8203769372791002,3360853.45,0.007,1.42,NIFTY MIDCAP 150 INDEX - TRI
+target_midcap_fund,2025-08-31,20250909_deebc-scheme-portfolio-details-aug-2025.xlsx,19,0.9739416051854316,3477973.5,0.0069,1.33,NIFTY MIDCAP 150 INDEX - TRI
+target_midcap_fund,2025-09-30,20251006_6abd7-scheme-portfolio-details-october-2025.xlsx,17,0.9101233441312269,3474889.46,0.0071,1.3,NIFTY MIDCAP 150 INDEX - TRI
+target_midcap_fund,2025-10-31,20251110_9ec4e-scheme-portfolio-details-october-2025.xlsx,15,0.8722379100166665,3750085.58,0.0069,1.24,NIFTY MIDCAP 150 INDEX - TRI
+target_midcap_fund,2025-11-30,20251208_966d5-scheme-portfolio-details-november-2025.xlsx,19,0.9248104697985319,3800268.33,0.0072,1.24,NIFTY MIDCAP 150 INDEX - TRI
+target_midcap_fund,2025-12-31,20260106_db566-scheme-portfolio-details-december-2025.xlsx,19,0.8359540023045978,3688018.02,0.0074,1.2,NIFTY MIDCAP 150 INDEX - TRI
+target_midcap_fund,2026-01-31,20260206_b5209-scheme-portfolio-details-january-2026-2-.xlsx,26,0.8657324509841826,3443218.3,0.0077,1.08,NIFTY MIDCAP 150 INDEX - TRI
+target_midcap_fund,2026-02-28,20260309_8c1a9-scheme-portfolio-details-february-26.xlsx,25,0.9275548578375836,3368920.26,0.0082,1.03,NIFTY MIDCAP 150 INDEX - TRI
+target_midcap_fund,2026-03-31,20260401_b3b74-copy-of-portfolioholding_march-31-2026-3-.xlsx,27,0.9600102360472892,3104665.63,0.0085,0.95,43
+target_midcap_fund,2026-04-30,20260510_Motilal Portfolio 30 April 2026 - Final.xlsx,27,96.00000000000001,3573497.51,,0.84,NIFTY MIDCAP 150 INDEX - TRI
+target_midcap_fund,2026-05-31,20260610_Scheme Portfolio Details 31-05-2026.xlsx,26,93.36999999999999,3645820.77,0.0064,0.9139348174372188,NIFTY MIDCAP 150 INDEX - TRI
+target_midcap_fund,2026-06-30,20260710_Scheme Portfolio Details June 20261.xlsx,29,97.11999999999999,3747386.66,0.006500000000000001,0.8366859592539168,NIFTY MIDCAP 150 INDEX - TRI
+target_midcap_fund,2026-07-31,20260810_Monthly Portfolio 31-07-2026-Final.xlsx,30,95.86999999999999,4003606.79,0.006500000000000001,0.8567817615619916,NIFTY MIDCAP 150 INDEX - TRI
+target_midcap_fund,2026-08-31,20260910_Copy of Scheme Portfolio Details Aug 2026.xlsx,30,96.38000000000001,4285159.37,0.0064,0.844653443645757,NIFTY MIDCAP 150 INDEX - TRI
+target_midcap_fund,2026-09-30,20261008_Scheme Portfolio Details September 2026.xlsx,30,94.81000000000002,4020750.28,0.006500000000000001,0.781457430396066,NIFTY MIDCAP 150 INDEX - TRI

@@ -1,0 +1,13 @@
+# download cache (recreated by `python run_all.py --rebuild`)
+data/raw/
+# run logs
+logs/
+# local leftovers, never published
+_old/
+# secrets
+.env
+*token*
+# python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/

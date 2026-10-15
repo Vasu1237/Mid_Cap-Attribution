@@ -1,0 +1,10 @@
+pandas>=2.2
+numpy>=1.26
+scipy>=1.11
+statsmodels>=0.14
+matplotlib>=3.8
+openpyxl>=3.1      # read MOAMC .xlsx portfolio files (rebuild only)
+xlrd>=2.0          # read older MOAMC .xls portfolio files (rebuild only)
+nbformat>=5.9      # build/execute the walkthrough notebook
+nbclient>=0.9
+ipykernel>=6.25

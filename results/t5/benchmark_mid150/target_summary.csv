@@ -1,0 +1,11 @@
+,value
+funds_in_test,19
+bootstrap_runs,2000
+seed,20261015
+model,benchmark_mid150
+window,2019-10..2026-09
+target_alpha_annualised,0.026407223803158297
+target_t_ols,0.7086856753922631
+target_rank,7
+target_p_boot (share of luck-only runs with t >= actual),0.3065
+target_sim_t_95th_pct,2.048923153632699

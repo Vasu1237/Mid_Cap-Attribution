@@ -1,0 +1,11 @@
+,value
+funds_in_test,18
+bootstrap_runs,2000
+seed,20261015
+model,carhart_iima
+window,2014-03..2025-12
+target_alpha_annualised,0.0774773914299447
+target_t_ols,2.414721267583974
+target_rank,5
+target_p_boot (share of luck-only runs with t >= actual),0.02
+target_sim_t_95th_pct,1.8802669908714176
